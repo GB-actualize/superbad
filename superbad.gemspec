@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{makes noise}
   spec.description   = %q{makes noise x2}
-  spec.homepage      = "https://rubygems.org/profiles/gb_actualize"
+  spec.homepage      = "https://github.com/GB-actualize/superbad"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
