@@ -3,7 +3,7 @@ require "superbad/version"
 module Superbad
   class Dryer
     def dry
-      `say noise`
+      p "what is happening"
     end
 
   end
